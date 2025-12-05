@@ -16,7 +16,7 @@
 
 <h2>📖 What I want to learn ...</h2>
 
-- <b>Java, Nodejs, git</b>
+- <b>Java, Nodejs, git, aws CCP</b>
 - <b>Blender</b>
 - <b>Cybersecurity, AI and game development</b>
 - <b>Be a better student rep</b>
