@@ -2,15 +2,16 @@
 
 <h2>👩‍💻 I am a ...</h2>
 
-- <b>Computer Science student at UoL🏫</b>
+- <b>First year Computer Science student at UoL🏫</b>
 - <b>Representitive Student</b>
-- <b>Hardworker!</b>
+- <b>Hardworker and passionate in AI, backend systems, and infrastructure.</b>
+- <b>Curently working as a QA</b>
 
 <h2>⌨️ My current skills are ...</h2>
 
 - <b>Good knowledge with Python and pygame</b>
 - <b>Confident with HTML, Css and javascript</b>
-- <b>New with C#</b>
+- <b>Getting comfortable with C#, SQL and Linux environments</b>
 - <b>Good with Unity, photoshop, linux and ect...</b>
 - <b>Teamwork, communicating to solve problems</b>
 
@@ -18,20 +19,6 @@
 
 - <b>Java, Nodejs, git, aws CCP</b>
 - <b>Blender</b>
-- <b>Cybersecurity, AI and game development</b>
+- <b>Backend development, SQL, Linux environments, and cloud technologies and AI</b>
 - <b>Be a better student rep</b>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
