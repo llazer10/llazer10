@@ -19,6 +19,6 @@
 
 - <b>Java, Nodejs, git, aws CCP</b>
 - <b>Blender</b>
-- <b>Backend development, SQL, Linux environments, and cloud technologies and AI</b>
+- <b>Backend development, SQL, Linux environments, cloud technologies and AI</b>
 - <b>Be a better student rep</b>
 
