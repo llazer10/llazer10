@@ -9,12 +9,12 @@ Computer Science student at the University of London. I am drawn to the systems-
 
 - **AI Game Recommendation Agent** — Built on Cloudflare Workers with Llama 3
 - - **2D Python project** — My first proper game attempt / built in pygame / Souls-like & Open world
-## 💻 Stack
+## Stack
  
 **Comfortable with:** Python, JavaScript, HTML/CSS, Git, Linux  
-**Working in:** C#, SQL, Lua (Roblox)  
+**Working in:** C#, SQL
  
-## 📚 Currently learning
+## Currently learning
  
 - Backend development via Boot.dev (C, Go, Kubernetes)
 - C and deeper Linux / systems work
