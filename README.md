@@ -11,10 +11,11 @@ Computer Science student at the University of London. I am drawn to the systems-
 - **2D Python project** — My first proper game attempt / built in pygame / Souls-like & Open world
 ## Stack
  
-**Comfortable with:** Python, JavaScript, HTML/CSS, Git, Linux  
+**Comfortable with:** Python, JavaScript, TypeScript, HTML/CSS, Git, Linux
 **Working in:** C#, SQL
  
 ## Currently learning
  
 - Backend development via Boot.dev (C, Go, Kubernetes)
 - C and deeper Linux / systems work
+- React & More Node.js
