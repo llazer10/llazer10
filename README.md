@@ -1,21 +1,19 @@
-# Hi, I'm Lazer 👋
- 
-Computer Science student at the University of London. I am drawn to the systems-level side of software like backend services, infrastructure, and the bits that keep things running.
- 
-##  What I'm building
- 
-- **Personal AI Game Companion** — A companion that learns your taste from your real game library, playtime, recent games played and uses RAG over game knowledge to recommend what to play next.
-## And what I've built
+# Hi, I'm Lazer
 
-- **AI Game Recommendation Agent** — Built on Cloudflare Workers with Llama 3
-- **2D Python project** — My first proper game attempt / built in pygame / Souls-like & Open world
-## Stack
- 
-**Comfortable with:** Python, JavaScript, TypeScript, HTML/CSS, Git, Linux
-**Working in:** C#, SQL
- 
-## Currently learning
- 
-- Backend development via Boot.dev (C, Go, Kubernetes)
-- C and deeper Linux / systems work
-- React & More Node.js
+I'm a Computer Science student at the University of London, working toward backend, AI, and infrastructure-focused development.
+
+## Current direction
+
+- Building a personal game companion that uses library, playtime, and recent activity data to help choose what to play next; the project is also a place to explore retrieval-augmented generation.
+- Learning more about backend and systems work through C, Go, Linux, SQL, and Kubernetes.
+- Continuing with React and Node.js for application development.
+
+## Projects
+
+- [**Game Recommender Agent**](https://github.com/llazer10/cf_ai_game_agent) — a Cloudflare Workers AI experiment with RAWG search, recommendation tools, Durable Object state, and MCP support.
+- [**Deltastar**](https://github.com/llazer10/PythonGameProject-Deltastar-cs-project) — a 2D action RPG built with Python and Pygame for my A-level Computer Science project.
+- [**Rocket Traversal**](https://github.com/llazer10/UnityProject-Rocket-Traversal) and [**Obstacle Dodger**](https://github.com/llazer10/UnityProject-Obstacle-Dodger) — small Unity prototypes built while learning C# and game development.
+
+## Tools and languages
+
+Python, JavaScript, TypeScript, HTML/CSS, Git, and Linux. I am currently developing my C#, SQL, C, and Go skills.
